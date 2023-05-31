@@ -31,7 +31,8 @@ public class Task3 {
 
     System.out.println("Введите имя для удаления: ");
 
-    String removeName = scanner.nextLine();
+
+    // к сожелению не до конца
 
   }
 }
